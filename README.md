@@ -1,10 +1,10 @@
-&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;
-👋 Hi, I’m @tianamariah
-👀 I’m interested in Front-End Web Development.
-🌱 I’m currently learning React.js
-💞️ I’m looking to collaborate on anything!! 
-📫 How to reach me email me at: vintagetee28@gmail.com
-&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;
+&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;<br>
+👋 Hi, I’m @tianamariah<br>
+👀 I’m interested in <strong>Front-End Web Development</strong>.<br>
+🌱 I’m currently learning <strong>React.js</strong><br>
+💞️ I’m looking to collaborate on anything!!<br>
+📫 How to reach me email me at: <strong>vintagetee28@gmail.com</strong><br>
+&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;<br>
 
 
 <!---
